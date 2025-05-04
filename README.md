@@ -1,4 +1,4 @@
-    
+
 ![Header](img/github-header.png)
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 💼 Student in **STT Terpadu Nurul Fikri**
-- 🔐 Lead of [NFSCC](https://github.com/your-nfscc-url) (Nurul Fikri Student Cyber Security Community)
+- 🔐 Lead of [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
 - 💡 Passionate about **Cyber Security, Web Development, and Open Source**
 
 <picture>
@@ -38,10 +38,10 @@
 
 
 
-#### 📈 GitHub Stats
+#### 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FirmansyahDzakwanArifien&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmansyahDzakwanArifien&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmansyahDzakwanArifien&layout=compact&theme=radical" height="150"/>
 </p>
 
 ## 🌱 Let's Connect!
