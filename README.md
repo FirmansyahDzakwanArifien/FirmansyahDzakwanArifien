@@ -1,33 +1,50 @@
-
 ![Header](img/github-header.png)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Enthusiast;Linux+Enthusiast;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30" />
-</p>
+# Hello, I'm Firmansyah Dzakwan Arifien
 
-## 🚀 About Me
-- 💼 Student in **STT Terpadu Nurul Fikri**
-- 🔐 Lead of [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
-- 💡 Passionate about **Cyber Security, Web Development, and Open Source**
+## About Me
+Student at **STT Terpadu Nurul Fikri**, specializing in Information Technology with a strong focus on cybersecurity and software development. Currently leading initiatives to build a stronger security-aware community among students.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph.svg">
-</picture>
+### Current Role
+**Lead** at [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
+- Organizing cybersecurity workshops and training sessions
+- Building awareness about digital security among students
+- Fostering collaboration in security research and CTF competitions
 
-###
+## 💻 Technical Expertise
 
-#### 🧰 Tech Stack
+### Core Competencies
+- **Cybersecurity** - Security assessment, vulnerability analysis, and ethical hacking
+- **Open Source** - Contributing to and maintaining open-source projects
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,figma,linux,js,python,laravel,react&theme=light)](https://skillicons.dev)
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,react,laravel,linux,figma&theme=light)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+**Languages & Frameworks:**  
+JavaScript • Python • HTML/CSS • Node.js • React • Laravel
 
+**Tools & Platforms:**  
+Linux • Figma • Git • VS Code
 
+## 🎯 Current Focus
+- 🔍 Deepening knowledge in penetration testing and security operations
+- 🚀 Building secure and scalable web applications
+- 📚 Exploring cloud security and DevSecOps practices
+- 🤝 Mentoring peers in cybersecurity fundamentals
 
-## 🌱 Let's Connect!
+## 📫 Let's Connect!
+I'm always open to collaborating on interesting projects or discussing cybersecurity and technology.
 
-![https://www.instagram.com/fdzak01/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fdzak01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FirmansyahDzakwanArifien)
 
 ---
+
+<div align="center">
+  
+### 💡 "Security is not a product, but a process." - Bruce Schneier
+
+*Feel free to explore my repositories and don't hesitate to reach out!*
+
+</div>
