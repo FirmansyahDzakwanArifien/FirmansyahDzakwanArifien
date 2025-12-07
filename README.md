@@ -26,13 +26,6 @@
 
 
 
-
-#### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirmansyahDzakwanArifien&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmansyahDzakwanArifien&layout=compact&theme=radical" height="150"/>
-</p>
-
 ## 🌱 Let's Connect!
 
 ![https://www.instagram.com/fdzak01/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
