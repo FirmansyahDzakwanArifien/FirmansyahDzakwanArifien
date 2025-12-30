@@ -30,7 +30,7 @@ Linux • Figma • Git • VS Code
 ### GitHub Activity
 <div align="center">
   
-![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
