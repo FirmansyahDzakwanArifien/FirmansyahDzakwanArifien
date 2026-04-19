@@ -6,23 +6,22 @@
 Student at **STT Terpadu Nurul Fikri**, specializing in Information Technology with a strong focus on cybersecurity and software development. Currently leading initiatives to build a stronger security-aware community among students.
 
 ### Current Role
-**Lead** at [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
-- Organizing cybersecurity workshops and training sessions
-- Building awareness about digital security among students
-- Fostering collaboration in security research and CTF competitions
+**Implementation Engineer** at [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id) 
+**Advisor** at [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
+
 
 ## Technical Expertise
 
 ### Core Competencies
 - **Cybersecurity** - Security assessment, vulnerability analysis, and ethical hacking
-- **Web Development** - Full-stack development with modern frameworks
+- **System Administration** -  
 - **Open Source** - Contributing to and maintaining open-source projects
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,react,laravel,linux,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,proxmox,js,nodejs,python,kubernetes,laravel,linux,figma&theme=light)](https://skillicons.dev)
 
 **Languages & Frameworks:**  
-JavaScript • Python • HTML/CSS • Node.js • React • Laravel
+JavaScript • Python • HTML/CSS • Node.js • Bash • Laravel
 
 **Tools & Platforms:**  
 Linux • Figma • Git • VS Code
