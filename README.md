@@ -3,11 +3,11 @@
 # Hello, I'm Firmansyah Dzakwan Arifien
 
 ## About Me
-Student at **STT Terpadu Nurul Fikri**, specializing in Information Technology with a strong focus on cybersecurity and software development. Currently leading initiatives to build a stronger security-aware community among students.
+Student at **STT Terpadu Nurul Fikri**, specializing in Information Technology with a strong focus on cybersecurity , Linux, SysAdmin and software development. Currently leading initiatives to build a stronger security-aware community among students.
 
 ### Current Role
-**Implementation Engineer** at [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id) 
-**Advisor** at [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
+- **Implementation Engineer** at [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id) 
+- **Advisor** at [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
 
 
 ## Technical Expertise
@@ -18,7 +18,7 @@ Student at **STT Terpadu Nurul Fikri**, specializing in Information Technology w
 - **Open Source** - Contributing to and maintaining open-source projects
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=docker,proxmox,js,nodejs,python,kubernetes,laravel,linux,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma&theme=light)](https://skillicons.dev)
 
 **Languages & Frameworks:**  
 JavaScript • Python • HTML/CSS • Node.js • Bash • Laravel
