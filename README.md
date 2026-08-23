@@ -8,7 +8,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 - Implementation Engineer @ [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id)
 - Advisor @ [NF.CC](https://github.com/NFCC-Com) *(Nurul Fikri Student Cyber Security Community)*
-- Infrastructure contributor @ [BlankOn Revival Project](https://www.blankonlinux.id/)
+- Infrastructure contributor @ [BlankOn Revival Project](https://blankonlinux.id/en)
 
 **Certified:** Fortinet Certified Associate in Cybersecurity · BNSP System Integrator · Certified DevOps Engineer (MBKM)
 
