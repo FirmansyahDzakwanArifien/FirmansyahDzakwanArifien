@@ -20,13 +20,13 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-neofetch.png" width="820" alt="neofetch terminal" />
+<img src="img/terminal-neofetch.png" width="660" alt="neofetch terminal" />
 
 </div>
 
 <div align="center">
 
-<img src="img/terminal-competencies.png" width="820" alt="core competencies terminal" />
+<img src="img/terminal-competencies.png" width="660" alt="core competencies terminal" />
 
 </div>
 
@@ -45,7 +45,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma,git,bash&theme=dark&perline=6" width="620" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma,git,bash&theme=dark&perline=6" alt="Tech stack icons" />
 </a>
 
 </div>
@@ -60,7 +60,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" width="820" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" width="660" alt="Activity graph" />
 
 </div>
 
@@ -68,7 +68,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-focus.png" width="820" alt="current focus terminal" />
+<img src="img/terminal-focus.png" width="660" alt="current focus terminal" />
 
 </div>
 
