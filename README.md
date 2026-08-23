@@ -1,42 +1,18 @@
 <img align="right" width="260" src="img/hologram-profile.svg" alt="Hologram profile" />
 
-```bash
-guest@github:~$ whoami
-```
-
-**Firmansyah Dzakwan Arifien** — Cybersecurity Enthusiast, Linux & SysAdmin.
-Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focused on cybersecurity, Linux, and system administration. Currently leading initiatives to build a stronger security-aware community among students.
+<img src="img/terminal-whoami.png" width="480" alt="whoami terminal" />
 
 <br clear="right"/>
 
-```bash
-guest@github:~$ neofetch --minimal
-```
-
 <div align="center">
 
-```text
-firmansyah@github
-------------------
-OS        : Linux (Daily Driver)
-Role      : Implementation Engineer @ Jarvis Integrasi Solusi
-Focus     : Cybersecurity · Linux SysAdmin · DevSecOps
-Status    : Advisor @ NFSCC
-Shell     : bash
-Editor    : VS Code
-```
+<img src="img/terminal-neofetch.png" width="480" alt="neofetch terminal" />
+
+<br/><br/>
+
+<img src="img/terminal-competencies.png" width="520" alt="core competencies terminal" />
 
 </div>
-
-```bash
-guest@github:~$ ls -la core_competencies/
-```
-
-| Domain | Description |
-|---|---|
-| `cybersecurity/` | Security assessment, vulnerability analysis, ethical hacking |
-| `sysadmin/` | Linux system administration & infrastructure management |
-| `opensource/` | Contributing to and maintaining open-source projects |
 
 ```bash
 guest@github:~$ ./tech_stack.sh
@@ -66,14 +42,11 @@ guest@github:~$ ./github_stats.sh --verbose
 
 </div>
 
-```bash
-guest@github:~$ tail -f current_focus.log
-```
+<div align="center">
 
-- `[+]` Deepening knowledge in penetration testing and security operations
-- `[+]` Building secure and scalable web applications
-- `[+]` Exploring cloud security and DevSecOps practices
-- `[+]` Mentoring peers in cybersecurity fundamentals
+<img src="img/terminal-focus.png" width="500" alt="current focus terminal" />
+
+</div>
 
 ```bash
 guest@github:~$ ./connect.sh --social
