@@ -1,9 +1,5 @@
 <img align="right" width="240" src="img/hologram-profile.svg" alt="Hologram profile" />
 
-<a href="https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link"><img align="right" width="240" src="https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf" alt="Download CV" /></a>
-<a href="https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link"><img align="right" width="240" src="https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf" alt="Download Portfolio" /></a>
-<a href="https://cyphera.my.id"><img align="right" width="240" src="https://img.shields.io/badge/Visit_Portfolio_Website-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=0c1016" alt="Visit Portfolio Website" /></a>
-
 ### Firmansyah Dzakwan Arifien
 
 **Cybersecurity Enthusiast · Linux & SysAdmin**
@@ -11,12 +7,20 @@
 Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduation 2026), focused on cybersecurity, Linux, and system administration — with a growing research interest in User & Entity Behavior Analytics (UEBA) and machine learning for insider threat detection. Currently leading initiatives to build a stronger security-aware community among students.
 
 - Implementation Engineer @ [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id)
-- Advisor @ [NFSCC](https://www.instagram.com/nf.scc/) *(Nurul Fikri Student Cyber Security Community)*
+- Advisor @ [NF.CC](https://github.com/NFCC-Com) *(Nurul Fikri Student Cyber Security Community)*
 - Infrastructure contributor @ [BlankOn Revival Project](https://www.blankonlinux.or.id/)
 
 **Certified:** Fortinet Certified Associate in Cybersecurity · BNSP System Integrator · Certified DevOps Engineer (MBKM)
 
 <br clear="right"/>
+
+<div align="right">
+
+[![Download CV](https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
+[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
+[![Visit Portfolio Website](https://img.shields.io/badge/Visit_Portfolio_Website-2dd4bf?style=flat-square&logo=googlechrome&logoColor=0c1016)](https://cyphera.my.id)
+
+</div>
 
 ---
 
