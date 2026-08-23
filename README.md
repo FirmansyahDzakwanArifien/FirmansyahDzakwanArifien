@@ -20,13 +20,13 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-neofetch.png" width="660" alt="neofetch terminal" />
+<img src="img/terminal-neofetch.png" width="620" alt="neofetch terminal" />
 
 </div>
 
 <div align="center">
 
-<img src="img/terminal-competencies.png" width="660" alt="core competencies terminal" />
+<img src="img/terminal-competencies.png" width="620" alt="core competencies terminal" />
 
 </div>
 
@@ -34,9 +34,9 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-[![Download CV](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
-[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00)](https://cyphera.my.id)
+[![Download CV](https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
+[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-1a1f29?style=flat-square&logo=googlechrome&logoColor=2dd4bf)](https://cyphera.my.id)
 
 </div>
 
@@ -54,7 +54,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" width="660" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&hide_border=true" width="620" alt="Activity graph" />
 
 </div>
 
@@ -62,7 +62,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-focus.png" width="660" alt="current focus terminal" />
+<img src="img/terminal-focus.png" width="620" alt="current focus terminal" />
 
 </div>
 
@@ -70,9 +70,9 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://www.instagram.com/fdzak01/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/FirmansyahDzakwanArifien)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1f29?style=flat-square&logo=instagram&logoColor=2dd4bf)](https://www.instagram.com/fdzak01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1f29?style=flat-square&logo=linkedin&logoColor=2dd4bf)](https://www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1f29?style=flat-square&logo=github&logoColor=2dd4bf)](https://github.com/FirmansyahDzakwanArifien)
 
 </div>
 
