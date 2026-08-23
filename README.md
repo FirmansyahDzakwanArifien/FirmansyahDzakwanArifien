@@ -1,6 +1,6 @@
 <img align="right" width="240" src="img/hologram-profile.svg" alt="Hologram profile" />
 
-## Firmansyah Dzakwan Arifien
+### Firmansyah Dzakwan Arifien
 
 **Cybersecurity Enthusiast · Linux & SysAdmin**
 
@@ -17,13 +17,13 @@ Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focu
 
 <div align="center">
 
-<img src="img/terminal-neofetch.png" width="600" alt="neofetch terminal" />
+<img src="img/terminal-neofetch.png" width="820" alt="neofetch terminal" />
 
 </div>
 
 <div align="center">
 
-<img src="img/terminal-competencies.png" width="600" alt="core competencies terminal" />
+<img src="img/terminal-competencies.png" width="820" alt="core competencies terminal" />
 
 </div>
 
@@ -62,7 +62,7 @@ Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focu
 
 <div align="center">
 
-<img src="img/terminal-focus.png" width="600" alt="current focus terminal" />
+<img src="img/terminal-focus.png" width="820" alt="current focus terminal" />
 
 </div>
 
