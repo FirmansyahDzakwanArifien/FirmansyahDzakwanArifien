@@ -1,5 +1,9 @@
 <img align="right" width="240" src="img/hologram-profile.svg" alt="Hologram profile" />
 
+<a href="https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link"><img align="right" width="240" src="https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf" alt="Download CV" /></a>
+<a href="https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link"><img align="right" width="240" src="https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf" alt="Download Portfolio" /></a>
+<a href="https://cyphera.my.id"><img align="right" width="240" src="https://img.shields.io/badge/Visit_Portfolio_Website-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=0c1016" alt="Visit Portfolio Website" /></a>
+
 ### Firmansyah Dzakwan Arifien
 
 **Cybersecurity Enthusiast · Linux & SysAdmin**
@@ -13,17 +17,6 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 **Certified:** Fortinet Certified Associate in Cybersecurity · BNSP System Integrator · Certified DevOps Engineer (MBKM)
 
 <br clear="right"/>
-
-<br/>
-
-<div align="center">
-
-[![Download CV](https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
-[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
-
-[![Visit Portfolio Website](https://img.shields.io/badge/Visit_Portfolio_Website-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=0c1016)](https://cyphera.my.id)
-
-</div>
 
 ---
 
