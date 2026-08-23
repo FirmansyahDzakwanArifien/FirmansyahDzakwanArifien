@@ -1,20 +1,17 @@
-<div align="center">
+<table>
+<tr>
+<td width="180" align="center" valign="middle">
+<img src="img/hologram-profile.svg" width="160" alt="Hologram profile" />
+</td>
+<td valign="middle">
 
-![Header](img/github-header.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=520&height=60&lines=root%40firmansyah%3A~%23+whoami;Cybersecurity+Enthusiast+%7C+Linux+%26+SysAdmin;Implementation+Engineer+%40+Jarvis;Advisor+%40+NFSCC)](https://git.io/typing-svg)
 
-<img src="img/hologram-profile.svg" width="150" alt="Hologram profile" />
+**Firmansyah Dzakwan Arifien** — Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focused on **cybersecurity, Linux, and system administration**. Currently leading initiatives to build a stronger security-aware community among students.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=650&height=60&lines=root%40firmansyah%3A~%23+whoami;Cybersecurity+Enthusiast+%7C+Linux+%26+SysAdmin;Implementation+Engineer+%40+PT.+Jarvis+Integrasi+Solusi;Advisor+%40+NFSCC)](https://git.io/typing-svg)
-
-</div>
-
-```bash
-guest@github:~$ cat about_me.txt
-```
-
-> **Firmansyah Dzakwan Arifien** — Student at **STT Terpadu Nurul Fikri**, majoring in
-> Information Technology, focused on **cybersecurity, Linux, and system administration**.
-> Currently leading initiatives to build a stronger security-aware community among students.
+</td>
+</tr>
+</table>
 
 ```bash
 guest@github:~$ cat current_role.txt
