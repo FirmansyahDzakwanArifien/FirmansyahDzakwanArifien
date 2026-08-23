@@ -16,27 +16,22 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <br/>
 
-### System Info
-
-<div align="center">
-
-<img src="img/terminal-neofetch-v2.png" width="620" alt="neofetch terminal" />
-
-</div>
-
-<div align="center">
-
-<img src="img/terminal-competencies-v2.png" width="620" alt="core competencies terminal" />
-
-</div>
-
-### Resources
-
 <div align="center">
 
 [![Download CV](https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
 [![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-1a1f29?style=flat-square&logo=googlechrome&logoColor=2dd4bf)](https://cyphera.my.id)
+
+[![Visit Portfolio Website](https://img.shields.io/badge/Visit_Portfolio_Website-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=0c1016)](https://cyphera.my.id)
+
+</div>
+
+---
+
+### System Info
+
+<div align="center">
+
+<img src="img/terminal-neofetch-narrow.png" width="380" alt="neofetch terminal" />&nbsp;&nbsp;<img src="img/terminal-competencies-narrow.png" width="380" alt="core competencies terminal" />
 
 </div>
 
@@ -44,25 +39,17 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma,git,bash&theme=dark&perline=6" alt="Tech stack icons" />
-</a>
+<img src="https://cdn.simpleicons.org/docker/2dd4bf" width="34" alt="Docker" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/terraform/2dd4bf" width="34" alt="Terraform" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jenkins/2dd4bf" width="34" alt="Jenkins" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redhat/2dd4bf" width="34" alt="Red Hat" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/2dd4bf" width="34" alt="Kubernetes" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux/2dd4bf" width="34" alt="Linux" />
+<br/><br/>
+<img src="https://cdn.simpleicons.org/nodedotjs/2dd4bf" width="34" alt="Node.js" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/2dd4bf" width="34" alt="Python" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel/2dd4bf" width="34" alt="Laravel" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/2dd4bf" width="34" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash/2dd4bf" width="34" alt="Bash" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/2dd4bf" width="34" alt="Figma" />
 
 </div>
 
-### GitHub Activity
+### Current Focus & Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&hide_border=true" width="620" alt="Activity graph" />
-
-</div>
-
-### Current Focus
-
-<div align="center">
-
-<img src="img/terminal-focus-v2.png" width="620" alt="current focus terminal" />
+<img src="img/terminal-focus-narrow.png" width="380" alt="current focus terminal" />&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0c1016&color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&hide_border=true&custom_title=%20" width="380" alt="Activity graph" />
 
 </div>
 
