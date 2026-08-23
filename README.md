@@ -1,22 +1,33 @@
-<img align="right" width="260" src="img/hologram-profile.svg" alt="Hologram profile" />
+<img align="right" width="240" src="img/hologram-profile.svg" alt="Hologram profile" />
 
-<img src="img/terminal-whoami.png" width="480" alt="whoami terminal" />
+## Firmansyah Dzakwan Arifien
+
+**Cybersecurity Enthusiast · Linux & SysAdmin**
+
+Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focused on cybersecurity, Linux, and system administration. Currently leading initiatives to build a stronger security-aware community among students.
+
+- Implementation Engineer @ [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id)
+- Advisor @ [NFSCC](https://www.instagram.com/nf.scc/) *(Nurul Fikri Student Cyber Security Community)*
 
 <br clear="right"/>
 
+<br/>
+
+### System Info
+
 <div align="center">
 
-<img src="img/terminal-neofetch.png" width="480" alt="neofetch terminal" />
-
-<br/><br/>
-
-<img src="img/terminal-competencies.png" width="520" alt="core competencies terminal" />
+<img src="img/terminal-neofetch.png" width="600" alt="neofetch terminal" />
 
 </div>
 
-```bash
-guest@github:~$ ./resources.sh --download
-```
+<div align="center">
+
+<img src="img/terminal-competencies.png" width="600" alt="core competencies terminal" />
+
+</div>
+
+### Resources
 
 <div align="center">
 
@@ -25,43 +36,37 @@ guest@github:~$ ./resources.sh --download
 
 </div>
 
-```bash
-guest@github:~$ ./tech_stack.sh
-```
+### Tech Stack
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma&theme=dark)](https://skillicons.dev)
 
-**Languages & Frameworks**
-`JavaScript` `Python` `HTML/CSS` `Node.js` `Bash` `Laravel`
-
-**Tools & Platforms**
-`Linux` `Figma` `Git` `VS Code`
-
 </div>
 
-```bash
-guest@github:~$ ./github_stats.sh --verbose
-```
+### GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=FirmansyahDzakwanArifien&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF00" alt="GitHub streak stats" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true)
-
 </div>
 
 <div align="center">
 
-<img src="img/terminal-focus.png" width="500" alt="current focus terminal" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" alt="Activity graph" />
 
 </div>
 
-```bash
-guest@github:~$ ./connect.sh --social
-```
+### Current Focus
+
+<div align="center">
+
+<img src="img/terminal-focus.png" width="600" alt="current focus terminal" />
+
+</div>
+
+### Connect
 
 <div align="center">
 
@@ -73,7 +78,7 @@ guest@github:~$ ./connect.sh --social
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -81,9 +86,7 @@ guest@github:~$ ./connect.sh --social
 
 <div align="center">
 
-```
-"Security is not a product, but a process." — Bruce Schneier
-```
+*"Security is not a product, but a process."* — Bruce Schneier
 
 *Feel free to explore my repositories and don't hesitate to reach out!*
 
