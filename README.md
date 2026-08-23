@@ -54,12 +54,6 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FirmansyahDzakwanArifien&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF00&cache_bust=2" alt="GitHub streak stats" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" width="660" alt="Activity graph" />
 
 </div>
