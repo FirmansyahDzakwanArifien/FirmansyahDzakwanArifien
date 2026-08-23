@@ -16,11 +16,11 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="right">
 
-[![Download CV](https://img.shields.io/badge/Download_CV-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
+[<img src="img/btn-cv.png" width="240" alt="Download CV" />](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
 <br/>
-[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-1a1f29?style=flat-square&logo=googledrive&logoColor=2dd4bf)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
+[<img src="img/btn-portfolio.png" width="240" alt="Download Portfolio" />](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
 <br/>
-[![Visit Portfolio Website](https://img.shields.io/badge/Visit_Portfolio_Website-2dd4bf?style=flat-square&logo=googlechrome&logoColor=0c1016)](https://cyphera.my.id)
+[<img src="img/btn-website.png" width="240" alt="Visit Portfolio Website" />](https://cyphera.my.id)
 
 </div>
 
