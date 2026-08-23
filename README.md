@@ -20,13 +20,13 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-neofetch.png?v=2" width="620" alt="neofetch terminal" />
+<img src="img/terminal-neofetch-v2.png" width="620" alt="neofetch terminal" />
 
 </div>
 
 <div align="center">
 
-<img src="img/terminal-competencies.png?v=2" width="620" alt="core competencies terminal" />
+<img src="img/terminal-competencies-v2.png" width="620" alt="core competencies terminal" />
 
 </div>
 
@@ -62,7 +62,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-focus.png?v=2" width="620" alt="current focus terminal" />
+<img src="img/terminal-focus-v2.png" width="620" alt="current focus terminal" />
 
 </div>
 
