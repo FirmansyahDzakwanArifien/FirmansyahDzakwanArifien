@@ -20,8 +20,27 @@ guest@github:~$ cat about_me.txt
 guest@github:~$ cat current_role.txt
 ```
 
-- 🛡️ **Implementation Engineer** @ [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id)
-- 🎓 **Advisor** @ [NFSCC](https://www.instagram.com/nf.scc/) *(Nurul Fikri Student Cyber Security Community)*
+- **Implementation Engineer** @ [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id)
+- **Advisor** @ [NFSCC](https://www.instagram.com/nf.scc/) *(Nurul Fikri Student Cyber Security Community)*
+
+```bash
+guest@github:~$ neofetch --minimal
+```
+
+<div align="center">
+
+```text
+firmansyah@github
+------------------
+OS        : Linux (Daily Driver)
+Role      : Implementation Engineer @ Jarvis Integrasi Solusi
+Focus     : Cybersecurity · Linux SysAdmin · DevSecOps
+Status    : Advisor @ NFSCC
+Shell     : bash
+Editor    : VS Code
+```
+
+</div>
 
 ```bash
 guest@github:~$ ls -la core_competencies/
@@ -29,9 +48,9 @@ guest@github:~$ ls -la core_competencies/
 
 | Domain | Description |
 |---|---|
-| 🔐 `cybersecurity/` | Security assessment, vulnerability analysis, ethical hacking |
-| 🖥️ `sysadmin/` | Linux system administration & infrastructure management |
-| 🌐 `opensource/` | Contributing to and maintaining open-source projects |
+| `cybersecurity/` | Security assessment, vulnerability analysis, ethical hacking |
+| `sysadmin/` | Linux system administration & infrastructure management |
+| `opensource/` | Contributing to and maintaining open-source projects |
 
 ```bash
 guest@github:~$ ./tech_stack.sh
@@ -65,6 +84,21 @@ guest@github:~$ ./github_stats.sh --verbose
 </div>
 
 ```bash
+guest@github:~$ ls -la pinned_projects/
+```
+
+<div align="center">
+
+<a href="https://github.com/FirmansyahDzakwanArifien/AVS-automated_vuln_scanner">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=FirmansyahDzakwanArifien&repo=AVS-automated_vuln_scanner&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" />
+</a>
+<a href="https://github.com/FirmansyahDzakwanArifien/finger-recognition">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=FirmansyahDzakwanArifien&repo=finger-recognition&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" />
+</a>
+
+</div>
+
+```bash
 guest@github:~$ tail -f current_focus.log
 ```
 
@@ -82,6 +116,10 @@ guest@github:~$ ./connect.sh --social
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://www.instagram.com/fdzak01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/FirmansyahDzakwanArifien)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=FirmansyahDzakwanArifien&label=PROFILE+VIEWS&color=00FF00&style=flat-square" />
 
 </div>
 
