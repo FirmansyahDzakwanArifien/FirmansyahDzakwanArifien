@@ -4,10 +4,13 @@
 
 **Cybersecurity Enthusiast · Linux & SysAdmin**
 
-Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focused on cybersecurity, Linux, and system administration. Currently leading initiatives to build a stronger security-aware community among students.
+Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduation 2026), focused on cybersecurity, Linux, and system administration — with a growing research interest in User & Entity Behavior Analytics (UEBA) and machine learning for insider threat detection. Currently leading initiatives to build a stronger security-aware community among students.
 
 - Implementation Engineer @ [PT. Jarvis Integrasi Solusi](https://jarvis.biz.id)
 - Advisor @ [NFSCC](https://www.instagram.com/nf.scc/) *(Nurul Fikri Student Cyber Security Community)*
+- Infrastructure contributor @ [BlankOn Revival Project](https://www.blankonlinux.or.id/)
+
+**Certified:** Fortinet Certified Associate in Cybersecurity · BNSP System Integrator · Certified DevOps Engineer (MBKM)
 
 <br clear="right"/>
 
@@ -33,6 +36,7 @@ Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focu
 
 [![Download CV](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
 [![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF00)](https://cyphera.my.id)
 
 </div>
 
@@ -40,7 +44,9 @@ Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focu
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,jenkins,redhat,nodejs,python,kubernetes,laravel,linux,figma,git,bash&theme=dark&perline=6" width="620" alt="Tech stack icons" />
+</a>
 
 </div>
 
@@ -48,13 +54,13 @@ Student at **STT Terpadu Nurul Fikri**, majoring in Information Technology, focu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FirmansyahDzakwanArifien&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF00" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=FirmansyahDzakwanArifien&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF00" width="820" alt="GitHub streak stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&hide_border=true" width="820" alt="Activity graph" />
 
 </div>
 
