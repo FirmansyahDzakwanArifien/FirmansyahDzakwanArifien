@@ -15,6 +15,17 @@
 </div>
 
 ```bash
+guest@github:~$ ./resources.sh --download
+```
+
+<div align="center">
+
+[![Download CV](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)
+[![Download Portfolio](https://img.shields.io/badge/Download_Portfolio-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)
+
+</div>
+
+```bash
 guest@github:~$ ./tech_stack.sh
 ```
 
