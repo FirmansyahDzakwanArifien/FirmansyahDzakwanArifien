@@ -31,7 +31,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-neofetch-narrow.png" width="380" alt="neofetch terminal" />&nbsp;&nbsp;<img src="img/terminal-competencies-narrow.png" width="380" alt="core competencies terminal" />
+<img src="img/terminal-neofetch-narrow.png" width="374" alt="neofetch terminal" />&nbsp;&nbsp;<img src="img/terminal-competencies-narrow.png" width="406" alt="core competencies terminal" />
 
 </div>
 
@@ -39,9 +39,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/docker/2dd4bf" width="34" alt="Docker" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/terraform/2dd4bf" width="34" alt="Terraform" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jenkins/2dd4bf" width="34" alt="Jenkins" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redhat/2dd4bf" width="34" alt="Red Hat" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/2dd4bf" width="34" alt="Kubernetes" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux/2dd4bf" width="34" alt="Linux" />
-<br/><br/>
-<img src="https://cdn.simpleicons.org/nodedotjs/2dd4bf" width="34" alt="Node.js" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/2dd4bf" width="34" alt="Python" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel/2dd4bf" width="34" alt="Laravel" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/2dd4bf" width="34" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash/2dd4bf" width="34" alt="Bash" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/2dd4bf" width="34" alt="Figma" />
+<img src="https://cdn.simpleicons.org/docker/2dd4bf" width="42" alt="Docker" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/terraform/2dd4bf" width="42" alt="Terraform" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jenkins/2dd4bf" width="42" alt="Jenkins" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redhat/2dd4bf" width="42" alt="Red Hat" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/2dd4bf" width="42" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux/2dd4bf" width="42" alt="Linux" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/2dd4bf" width="42" alt="Node.js" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/2dd4bf" width="42" alt="Python" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel/2dd4bf" width="42" alt="Laravel" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git/2dd4bf" width="42" alt="Git" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash/2dd4bf" width="42" alt="Bash" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/2dd4bf" width="42" alt="Figma" />
 
 </div>
 
@@ -49,7 +47,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="center">
 
-<img src="img/terminal-focus-narrow.png" width="380" alt="current focus terminal" />&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0c1016&color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&hide_border=true&custom_title=%20" width="380" alt="Activity graph" />
+<img src="img/terminal-focus-narrow.png" width="302" alt="current focus terminal" />&nbsp;&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirmansyahDzakwanArifien&bg_color=0c1016&color=2DD4BF&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&hide_border=true&custom_title=%20" width="477" alt="Activity graph" />
 
 </div>
 
