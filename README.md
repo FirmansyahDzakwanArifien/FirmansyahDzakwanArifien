@@ -16,7 +16,7 @@ Informatics Engineering student at **STT Terpadu Nurul Fikri** (expected graduat
 
 <div align="right">
 
-[<img src="img/btn-cv.png" width="172" alt="Download CV" />](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)&nbsp;&nbsp;[<img src="img/btn-portfolio.png" width="172" alt="Download Portfolio" />](https://drive.google.com/file/d/1oU-sawtMXcT9KY9hnZ-yvS23YbUAoLKl/view?usp=drive_link)&nbsp;&nbsp;[<img src="img/btn-website.png" width="172" alt="Visit Portfolio Website" />](https://cyphera.my.id)
+[<img src="img/btn-cv.png" width="172" alt="Download CV" />](https://drive.google.com/file/d/19JzjPYVK4qW-3GnWa8cZ-GHP-8JlK5fz/view?usp=drive_link)&nbsp;&nbsp;[<img src="img/btn-portfolio.png" width="172" alt="Download Portfolio" />](https://drive.google.com/file/d/17h7tK-XLdRCpQNCFgXhGuoby5xB9WKqG/view?usp=sharing)&nbsp;&nbsp;[<img src="img/btn-website.png" width="172" alt="Visit Portfolio Website" />](https://cyphera.my.id)
 
 </div>
 
